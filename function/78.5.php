@@ -1,0 +1,1 @@
+<? $arr = shuffle(range(1, 10)); ?>
